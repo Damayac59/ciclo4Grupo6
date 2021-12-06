@@ -1,5 +1,5 @@
 1. La dirección URL al repositorio
-https://github.com/Damayac59/ciclo4Grupo6/tree/Sprint2/Daniel_Fernando_Amaya_Cristancho
+https://github.com/Damayac59/ciclo4Grupo6/tree/Sprint3/Daniel_Amaya_Cristancho
 
 2. El numero del grupo de trabajo
 Grupo 6
