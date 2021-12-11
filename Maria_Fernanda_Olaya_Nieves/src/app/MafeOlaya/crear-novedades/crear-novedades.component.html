@@ -1,0 +1,16 @@
+<div class="container">
+    <header>CREACIÓN DE NOVEDADES</header>
+    <form action="" action="post" class="register" name="formulario_insertar_persona" [formGroup]="InfoNovedad">
+
+    <button class="home_close">Home Administrador</button>
+    <button class="home_close">Cerrar Sesión</button>
+    
+    <br>Novedad: <input type="text" class="form-control" formControlName="nombre_novedad" name="nombre_novedad" id="" placeholder="Nombre de la novedad">
+    <br>Descripción:
+    <br><textarea type="text" class="form-control" rows="3" formControlName="descripcion_novedad" name="nombre_novedad" id="" placeholder="Descripción de la novedad"></textarea>
+    <button (click)="recibir_datos_novedad()" class="register-button">Enviar</button>
+
+    <footer>MF2D3J1 2021 <br>Direccion: Medellin <br>Telefono: +57 (4) 5832444 <br> Correo: mf2d3j@outlook.com</footer>
+    </form>
+    
+</div>
