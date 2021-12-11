@@ -9,7 +9,7 @@
         background: rgb(142, 174, 204);
     }
     header{
-        background-image: url("css/logo");
+        background-image: url("/assets/imagenes/logo.jpg");
         background-position: center;
         text-align: center;
         height: 20%;
@@ -114,7 +114,7 @@
             background: rgb(142, 174, 204);
         }
         header{
-            background-image: url("css/logo");
+            background-image: url("/assets/imagenes/logo.jpg");
             background-position: center;
             text-align: center;
             height: 20%;
@@ -219,7 +219,7 @@
             background: rgb(142, 174, 204);
         }
         header{
-            background-image: url("css/logo");
+            background-image: url("/assets/imagenes/logo.jpg");
             background-position: center;
             text-align: center;
             height: 20%;
@@ -312,4 +312,3 @@
             font-size: xx-small;
         }
     }
-            
