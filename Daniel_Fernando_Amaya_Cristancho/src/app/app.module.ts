@@ -7,12 +7,14 @@ import { InformeEmpleadosComponent } from './daniel/informe-empleados/informe-em
 import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
 import { PaginaPrincipalComponent } from './daniel/pagina-principal/pagina-principal.component';
+import { Pagina404Component } from './daniel/pagina404/pagina404.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     InformeEmpleadosComponent,
-    PaginaPrincipalComponent
+    PaginaPrincipalComponent,
+    Pagina404Component
   ],
   imports: [
     BrowserModule,
